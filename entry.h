@@ -1,4 +1,5 @@
 #include <arpa/inet.h>
+#include <stdint.h>
 
 struct udp_entry
 {
