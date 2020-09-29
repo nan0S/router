@@ -1,3 +1,8 @@
+# Custom
+udp_client.c
+udp_client_flood.c
+udp_server.c
+
 # Prerequisites
 *.d
 
